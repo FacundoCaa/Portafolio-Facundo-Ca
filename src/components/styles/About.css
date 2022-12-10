@@ -1,0 +1,62 @@
+.about {
+    min-height: 100vh;
+    padding: 40px;
+    display: flex;
+    text-align: center;
+    background-color: var(--fondo);
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: #000;
+  }
+  
+  .about_me {
+    margin-bottom: 30px;
+  }
+
+  .about_skills {
+    text-align: center;
+    width: 50%;
+  }
+  
+  .about_hobbies {
+    text-align: center;
+    width: 50%;
+  }
+  
+  .about_title {
+    color: var(--dorado);
+    border-bottom: 2px solid #e8d7acbb;
+    border-radius: 3px;
+  }
+  
+  .about_description {
+    font-size: 24px;
+    font-weight: 300;
+  }
+  
+  .about_list {
+    list-style: none;
+    justify-content: start;
+  }
+  
+  .about_button {
+    margin-top: 10px;
+    height: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  
+  .list_item {
+    background-color: var(--fondo);
+    color: #000;
+    padding-bottom: 10px;
+  }
+
+  .about_download {
+    width: 100%;
+      text-align: center;
+  }
+  
+  .CV_icon {
+    justify-self: start;
+  }
