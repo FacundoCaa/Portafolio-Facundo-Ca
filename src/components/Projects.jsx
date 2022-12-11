@@ -16,28 +16,28 @@ export const Projects = () => {
               title="GiftApp" 
               desc="Aplicacion Web: React"
               rep="https://github.com/FacundoCaa/GiftExpertApp"
-              web=""
+              web="https://gift-expert-app.web.app"
               />
             <CardItem 
               src={project02} 
               title="JournalApp" 
               desc="Aplicacion Web: React, Redux y Firebase"
-              rep=""
-              web="" 
+              rep="https://github.com/FacundoCaa/Journal-App"
+              web="https://journal-app-two-sage.vercel.app/auth/login" 
               />
             <CardItem 
               src={project03} 
               title="Este portafolio" 
               desc="Portafolio: React, Bootstrap"
-              rep=""
-              web=""
+              rep="https://github.com/FacundoCaa/Portafolio-Facundo-Ca-oli"
+              web="#home"
               />
             <CardItem 
               src={project04} 
               title="HeroesApp" 
               desc="Aplicacion Web: React"
-              rep=""
-              web=""
+              rep="https://github.com/FacundoCaa/Heroes-Spa"
+              web="https://facundocaa.github.io/Heroes-Spa/"
               />
             <CardItem 
               src={project05} 

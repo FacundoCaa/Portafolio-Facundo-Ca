@@ -33,7 +33,9 @@ export const About = () => {
         </div>
         <div className='about_download'>
             <h1 className='about_title'>Descarga mi currículum</h1>
-            <button type="button" class="about_button btn btn-dark"><FontAwesomeIcon className='CV_icon' icon={faFileArrowDown} /> CV</button>
+            <a style={{color: "#fff"}} href="https://drive.google.com/uc?export=download&id=18quY9V9yc7YBMZsKG9hxf2XMl9HSnR4U">
+                <button type="button" class="about_button btn btn-dark"><FontAwesomeIcon className='CV_icon' icon={faFileArrowDown} />CV</button>
+            </a>
         </div>
     </section>
   )
