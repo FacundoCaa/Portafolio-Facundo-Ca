@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portafolio-Facundo-Ca/static/css/main.6278945d.css",
+    "main.js": "/Portafolio-Facundo-Ca/static/js/main.6d89440c.js",
+    "static/media/code.png": "/Portafolio-Facundo-Ca/static/media/code.6804eeffab2f329b7f5f.png",
+    "static/media/project04.png": "/Portafolio-Facundo-Ca/static/media/project04.95e531efb216851f5101.png",
+    "static/media/project03.png": "/Portafolio-Facundo-Ca/static/media/project03.67f6148989b1c552a0da.png",
+    "static/media/project01.jpg": "/Portafolio-Facundo-Ca/static/media/project01.0b135f01543aa4466f91.jpg",
+    "static/media/project02.png": "/Portafolio-Facundo-Ca/static/media/project02.8dfac55927017e739126.png",
+    "static/media/profile.png": "/Portafolio-Facundo-Ca/static/media/profile.e165abeff377b90a71ef.png",
+    "index.html": "/Portafolio-Facundo-Ca/index.html",
+    "main.6278945d.css.map": "/Portafolio-Facundo-Ca/static/css/main.6278945d.css.map",
+    "main.6d89440c.js.map": "/Portafolio-Facundo-Ca/static/js/main.6d89440c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6278945d.css",
+    "static/js/main.6d89440c.js"
+  ]
+}
