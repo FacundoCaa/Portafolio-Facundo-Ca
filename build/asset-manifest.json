@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Journal-App/static/css/main.e4e7423a.css",
+    "main.js": "/Journal-App/static/js/main.bc6bb62b.js",
+    "static/media/code.png": "/Journal-App/static/media/code.6804eeffab2f329b7f5f.png",
+    "static/media/project04.png": "/Journal-App/static/media/project04.95e531efb216851f5101.png",
+    "static/media/project03.png": "/Journal-App/static/media/project03.67f6148989b1c552a0da.png",
+    "static/media/project01.jpg": "/Journal-App/static/media/project01.0b135f01543aa4466f91.jpg",
+    "static/media/project02.png": "/Journal-App/static/media/project02.8dfac55927017e739126.png",
+    "static/media/profile.png": "/Journal-App/static/media/profile.e165abeff377b90a71ef.png",
+    "index.html": "/Journal-App/index.html",
+    "main.e4e7423a.css.map": "/Journal-App/static/css/main.e4e7423a.css.map",
+    "main.bc6bb62b.js.map": "/Journal-App/static/js/main.bc6bb62b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4e7423a.css",
+    "static/js/main.bc6bb62b.js"
+  ]
+}

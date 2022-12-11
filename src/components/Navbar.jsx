@@ -4,10 +4,9 @@ export const Navbar = () => {
 
   return (
     <nav className="navbar navbar-dark navbar-expand-lg position-fixed">
-  <div className="container-fluid d-flex justify-content-between">
+  <div className="container-fluid d-flex ">
     <img src={FNL} alt="FÑL"/>
-    {/* <a className="navbar-brand" href='#'>Navbar</a> */}
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="true" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="" id="navbarNav">

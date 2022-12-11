@@ -3,7 +3,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
-export const CardItem = ({src, title, desc}) => {
+export const CardItem = ({src, title, desc, rep, web }) => {
   return (
     <div className='Projects_item'>
         <picture>
@@ -13,8 +13,8 @@ export const CardItem = ({src, title, desc}) => {
             <h3 className='Projects_description_title'>{ title }</h3>
             <p className="Projects__description_text">{ desc }</p>
             <div className="button_container">
-                <a className="Projects_button" href="#home"><FontAwesomeIcon icon={faGlobe} /> Website</a>
-                <a className="Projects_button" href="#home"><FontAwesomeIcon icon={faGithub} /> Repositorio</a>
+                <a className="Projects_button" target="__BLANK" href={ web }><FontAwesomeIcon icon={faGlobe} /> Website</a>
+                <a className="Projects_button" target="__BLANK" href={ rep }><FontAwesomeIcon icon={faGithub} /> Repositorio</a>
             </div>
         </div>
     </div>

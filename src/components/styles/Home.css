@@ -38,4 +38,16 @@
     text-shadow: 1px 1px black;
     color: var(--dorado);
   }
+
+
   
+  @media (max-width: 600px) {
+    .home {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .home picture {
+      margin-top: 50px;
+    }
+}

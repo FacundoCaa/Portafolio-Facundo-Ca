@@ -11,11 +11,39 @@ export const Projects = () => {
     <section id='Projects' className='Project'>
         <h1 className='Projects_title'> Proyectos </h1>
         <div className='Projects_portfolio'>
-            <CardItem src={project01} title="GiftApp" desc="Aplicacion Web: React"/>
-            <CardItem src={project02} title="JournalApp" desc="Aplicacion Web: React, Redux y Firebase" />
-            <CardItem src={project03} title="Este portafolio" desc="Portafolio: React, Bootstrap"/>
-            <CardItem src={project04} title="HeroesApp" desc="Aplicacion Web: React"/>
-            <CardItem src={project05} title="CalendarApp" desc="En desarrollo"/>
+            <CardItem 
+              src={project01}
+              title="GiftApp" 
+              desc="Aplicacion Web: React"
+              rep="https://github.com/FacundoCaa/GiftExpertApp"
+              web=""
+              />
+            <CardItem 
+              src={project02} 
+              title="JournalApp" 
+              desc="Aplicacion Web: React, Redux y Firebase"
+              rep=""
+              web="" 
+              />
+            <CardItem 
+              src={project03} 
+              title="Este portafolio" 
+              desc="Portafolio: React, Bootstrap"
+              rep=""
+              web=""
+              />
+            <CardItem 
+              src={project04} 
+              title="HeroesApp" 
+              desc="Aplicacion Web: React"
+              rep=""
+              web=""
+              />
+            <CardItem 
+              src={project05} 
+              title="CalendarApp" 
+              desc="En desarrollo"
+              />
         </div>
     </section>
   )
