@@ -12,7 +12,7 @@ export const Home = () => {
         <div className='home_description'>
             <p className='animate__animated animate__backInDown home__title--primary'>Hola!</p>
             <h1 className='animate__animated animate__backInDown home_title'>Soy Facundo Cañoli</h1>
-            <p className='animate__animated animate__backInUp animate__delay-1s home__title--primary'>Desarrollador Frontend</p>
+            <p className='animate__animated animate__backInUp animate__delay-1s home__title--primary'>Desarrollador Fullstack</p>
         </div>
     </section>
   )
